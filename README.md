@@ -1,13 +1,12 @@
 # Remote Access Tools For android Pentesting
-# HIGHSCHOOL PROJECT [SUPPORT AND CLASSES](https://t.me/efxtv)
+# HIGHSCHOOL PROJECT [SUPPORT AND CLASSES](https://t.me/EFXTV2021)
  
 
 This repo contains android trojan (and [Dataset](#)) as far as I know (free or paid app) with feature and permission list for my documentation.
 
 Looking for port forwarding without buying VPN or Router setting?? Use [Ngrok](https://ngrok.com/)
 
-#Vx-Underground
-https://www.vx-underground.org/archive.html#builders
+#[Vx-Underground](https://www.vx-underground.org/archive.html#builders)
 
 # Note
 Please don't download the project if you won't be infected by Trojan, make sure to recheck before downloading or installing from an unknown source (Trojan in a Trojan??).
@@ -20,7 +19,7 @@ Please don't download the project if you won't be infected by Trojan, make sure 
   - Browser History
   - App Manager
   
-- AndroRAT https://github.com/DesignativeDave/androrat https://github.com/karma9874/AndroRAT https://github.com/The404Hacking/AndroRAT [GUI]
+- AndroRAT https://github.com/The404Hacking/AndroRAT [GUI]
   - Contact, Call logs, Call, SMS
   - Location, Camera, Microphone
   - Streaming video (for activity based client only)
